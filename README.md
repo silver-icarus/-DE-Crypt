@@ -1,2 +1,10 @@
-# -DE-Crypt
-A console-based application written in JAVA for encrypting and decrypting text.
+# (DE)Crypt
+
+Decrypt (*stylized as (DE)Crypt*) is a console based application that lets you encrypt and decrypt text using various methods.
+
+### **Available Methods** 
+* Caesar
+* Custom Transposition
+* Vigenère
+
+*/UNDER DEVELOPMENT/*
