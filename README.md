@@ -4,7 +4,6 @@ Decrypt (*stylized as (DE)Crypt*) is a console based application that lets you e
 
 ### **Available Methods** 
 * Caesar
-* Custom Transposition
-* Vigenère
+* 
 
-*/UNDER DEVELOPMENT/*
+##*(WIP)*
